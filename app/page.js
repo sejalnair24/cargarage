@@ -10,7 +10,7 @@ export default function Land(){
           </div>  
          <div className="h-[50px] w-[160px] hidden md:block mx-150px flex flex-row " >
           <div className=" mt-[13px]  ml-[100px] text-white underline hidden md:block">Home  </div></div>
-          <div className="  hidden md:block text-white underline"><Link href="/aboutus">AboutUs</Link>  </div>
+          <div className="   text-white underline"><Link href="/aboutus">AboutUs</Link>  </div>
           <div className=" hidden md:block text-white underline">Pages  </div>
           <div className=" hidden md:block text-white underline">Services </div>
           <div className=" hidden md:block text-white underline">Shop  </div>
