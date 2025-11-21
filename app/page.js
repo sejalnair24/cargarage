@@ -10,7 +10,7 @@ export default function Land(){
           </div>  
          <div className="h-[50px] w-[160px] hidden md:block mx-150px flex flex-row " >
           <div className=" mt-[13px]  ml-[100px] text-white underline hidden md:block">Home  </div></div>
-          <div className="   text-white underline"><Link href="/aboutus">AboutUs</Link>  </div>
+          <div className="   text-white underline md:ml-0 ml-60"><Link href="/aboutus">AboutUs</Link>  </div>
           <div className=" hidden md:block text-white underline">Pages  </div>
           <div className=" hidden md:block text-white underline">Services </div>
           <div className=" hidden md:block text-white underline">Shop  </div>
@@ -20,7 +20,7 @@ export default function Land(){
         <img src="https://themehealer.com/php-template/crank-php/assets/images/resources/main-slider-img-2.jpg"height="500px"width="490px"className="md:flex flex-row flex-col md:mt-[700px] hidden md:block md:mr-[100px]"/>
     
           </div>
-          <div className="text-white md:text-6xl text-5xl mt-[150px] md:ml-[90px]  space-x-4">
+          <div className="text-white md:text-6xl text-5xl mt-[150px] md:ml-[90px] ml-5  space-x-4">
            <h1 className=" font-bold  text-6xl"> Where Quality Is A</h1>
          <h1  className=" font-bold  text-6xl "> Service Meets The</h1> 
            <h1  className="text-red-500  text-6xl">Open Road</h1>
